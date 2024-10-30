@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Icon-128" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Background" fill="#0055FF" transform="translate(64.000000, 64.000000) rotate(180.000000) translate(-64.000000, -64.000000) " x="0" y="0" width="128" height="128" rx="10"></rect>
+        <g id="08.-Image-Hotspots" transform="translate(20.000000, 37.000000)" fill="#FFFFFF">
+            <path d="M84.775,0 C86.5561183,-3.27186127e-16 88,1.44388168 88,3.225 L88,51.775 C88,53.5561183 86.5561183,55 84.775,55 L3.225,55 C1.44388168,55 -1.55823275e-15,53.5561183 0,51.775 L0,3.225 C2.25965125e-16,1.44388168 1.44388168,1.21536455e-15 3.225,0 L84.775,0 Z M64.5,15 C57.5964406,15 52,20.5964406 52,27.5 C52,34.4035594 57.5964406,40 64.5,40 C71.4035594,40 77,34.4035594 77,27.5 C77,20.5964406 71.4035594,15 64.5,15 Z M32.3362069,18 L11,18 L11,39 L32.3362069,39 L44,28.5 L32.3362069,18 Z" id="Icon"></path>
+        </g>
+    </g>
+</svg>
